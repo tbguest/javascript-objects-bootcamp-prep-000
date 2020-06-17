@@ -29,6 +29,7 @@ console.log(playlist, 'Beck', 'Paper Tiger')
 
 function removeFromPlaylist(playlist, artist) {
   delete playlist.artist;
+  return playlist
 }
 
 
