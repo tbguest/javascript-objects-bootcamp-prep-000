@@ -7,7 +7,9 @@
 var playlist = {
   'Mylo': "Otto Journey"
   }
-
+  
+  
+playlist['sdgfartist'] = 'song'
 
   
 console.log(playlist)  
