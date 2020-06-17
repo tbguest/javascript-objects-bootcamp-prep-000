@@ -5,7 +5,7 @@
 // }
 
 var playlist = {
-  'Mylo': "Otto Journey"
+  'Mylo': "Otto's Journey"
   }
   
 console.log(playlist)  
