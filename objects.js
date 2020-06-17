@@ -28,4 +28,7 @@ function removeFromPlaylist(playlist, artist) {
   return playlist
 }
 
+console.log(removeFromPlaylist(playlist, 'Beck'))
+
+
 
