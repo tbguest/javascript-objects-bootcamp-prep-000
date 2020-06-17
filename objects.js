@@ -5,7 +5,7 @@
 // }
 
 var playlist = {
-  'Mylo': "Otto's Journey"
+  'Mylo': "Otto Journey"
   }
 
 
@@ -27,4 +27,5 @@ console.log(playlist, 'Beck', 'Paper Tiger')
 function removeFromPlaylist(playlist, artist) {
   delete playlist.artist;
 }
+
 
