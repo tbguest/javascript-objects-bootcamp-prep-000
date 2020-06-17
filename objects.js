@@ -20,7 +20,7 @@ function updatePlaylist(playlist, artist, song) {
   return playlist
 }
 
-console.log(playlist, 'Beck', 'Paper Tiger')
+console.log(updatePlaylist(playlist, 'Beck', 'Paper Tiger'))
 
 
 function removeFromPlaylist(playlist, artist) {
