@@ -25,7 +25,7 @@ function removeFromPlaylist(playlist, artist) {
   return playlist
 }
 
-console.log(delete playlist['Mylo'])
+// console.log(delete playlist['Mylo'])
 console.log(removeFromPlaylist(playlist, 'Mylo'))
 
 
