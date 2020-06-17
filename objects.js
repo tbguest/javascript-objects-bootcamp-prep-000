@@ -28,7 +28,7 @@ function removeFromPlaylist(playlist, artist) {
   return playlist
 }
 
-console.log(removeFromPlaylist(playlist, 'Beck'))
+console.log(removeFromPlaylist(playlist, 'Mylo'))
 
 
 
